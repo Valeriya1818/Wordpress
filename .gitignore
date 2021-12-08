@@ -21,3 +21,10 @@ node_modules/
 *.log
 *.sql
 *.sqlite
+
+/docker/mysql/config/*
+/docker/mysql/data/*
+/docker/mysql/files/*
+/docker/mysql/lib/*
+/docker/mysql/logs/*
+/docker/nginx/logs/*
